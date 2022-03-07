@@ -1,3 +1,6 @@
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 # Delete Persistent Attributes Demo
 
 This feature demo use the SkillDisabled skill event to trigger the deletion of data persisted for the user.
